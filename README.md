@@ -47,3 +47,17 @@ Currently not employed, developing skills. Looking for an opportunity in an orga
 ![vs-code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
+<br>
+<br>
+
+# Github Statistics
+
+![Visitor](https://komarev.com/ghpvc/?username=sujon-ahmedz&color=blueviolet&style=flat-square) 
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/sujon-ahmed)
+![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=flat-square)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square&color=brightgreen)
+![Last-commit](https://img.shields.io/github/last-commit/sujon-ahmed/sujon-ahmed?style=flat-square&color=blueviolet)
+
+![Sujon Ahmed GitHub stats](https://github-readme-stats.vercel.app/api?username=sujon-ahmed&show_icons=true&theme=dracula)
+![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=sujon-ahmed&theme=dracula)
