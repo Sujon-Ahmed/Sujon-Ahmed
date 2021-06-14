@@ -11,7 +11,7 @@ Currently not employed, developing skills. Looking for an opportunity in an orga
 
 - 😎 Name pronunciation: **Su-jon**
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a black golden.
+- ⚡ Fun fact: Crazy Coder🤓
 
 <br>
 
@@ -23,7 +23,7 @@ Currently not employed, developing skills. Looking for an opportunity in an orga
 
 
 - 🔭 I’m currently working on *Personal Projects*
-- 🌱 I’m currently learning *HTML5, CSS3, Boostrap, JavaScript*
+- 🌱 I’m currently learning *HTML5, CSS3, Boostrap, JavaScript,PHP*
 - 👯 I’m looking to collaborate on *OpenSource Projects*
 - 🤔 I’m looking for help with *JavaScript*
 - 💬 Ask me about anything at [@sujonahmed](https://twitter.com/sujonahmedriman)
