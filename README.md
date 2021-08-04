@@ -63,7 +63,7 @@ Currently not employed, developing skills. Looking for an opportunity in an orga
 ![Last-commit](https://img.shields.io/github/last-commit/Sujon-Ahmed/Sujon-Ahmed?style=flat-square&color=blueviolet)
 
 ![Sujon Ahmed GitHub stats](https://github-readme-stats.vercel.app/api?username=sujon-ahmed&show_icons=true&theme=dracula)
-![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=sujon-ahmed&theme=dracula)
+![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujon-Ahmed&theme=dracula)
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Sujon-Ahmed&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
