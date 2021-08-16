@@ -25,7 +25,7 @@ Currently not employed, developing skills. Looking for an opportunity in an orga
 - 🔭 I’m currently working on <a href="https://github.com/Sujon-Ahmed/Practice-PHP">Practice-PHP</a>
 - 🌱 I’m currently learning *HTML5, CSS3, Boostrap, JavaScript,PHP*
 - 👯 I’m looking to collaborate on *OpenSource Projects*
-- 🤔 I’m looking for help with *JavaScript*
+- 🤔 I’m looking for help with *PHP*
 - 💬 Ask me about anything at [@sujonahmed](https://twitter.com/sujonahmedriman)
 - 📫 How to reach me: [Facebook](https://www.facebook.com/sujonahmedriman.75/)
 
