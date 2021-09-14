@@ -62,7 +62,7 @@ Currently not employed, developing skills. Looking for an opportunity in an orga
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/sujon-ahmed)
 ![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=flat-square)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square&color=brightgreen)
-![Last-commit](https://img.shields.io/github/last-commit/sujon-shmed/sujon-shmed?style=flat-square&color=blueviolet)
+![Last-commit](https://img.shields.io/github/last-commit/sujon-ahmed/sujon-ahmed?style=flat-square&color=blueviolet)
 
 ![Sujon Ahmed GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujon-Ahmed&show_icons=true&theme=dracula)
 ![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujon-Ahmed&theme=dracula)
