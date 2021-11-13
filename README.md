@@ -49,7 +49,7 @@ Currently not employed, developing skills. Looking for an opportunity in an orga
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![vs-code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Illustrator](https://img.shields.io/badge/illustrator-c0392b?&style=for-the-badge&logo=illustrator&logoColor=white)
+![Illustrator](https://img.shields.io/badge/adobe-illustrator-c0392b?&style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![XD](https://img.shields.io/badge/XD-b33939?&style=for-the-badge&logo=adobe-xd&logoColor=white)
 
 <br>
