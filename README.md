@@ -41,7 +41,7 @@ Currently not employed, developing skills. Looking for an opportunity in an orga
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![PHP7](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![LARAVEL](https://img.shields.io/badge/LARAVEL-6C6C6C?style=for-the-badge&logo=laravel&logoColor=white)
+![LARAVEL](https://img.shields.io/badge/LARAVEL-F05340?style=for-the-badge&logo=laravel&logoColor=white)
 
 <br>
 
