@@ -22,10 +22,10 @@ Currently not employed, developing skills. Looking for an opportunity in an orga
 ## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-- 🔭 I’m currently working on <a href="https://github.com/Sujon-Ahmed/Creative_IT">Creative IT</a>
-- 🌱 I’m currently learning *HTML5, CSS3, Boostrap, JavaScript,PHP*
+- 🔭 I’m currently working on <a href="https://github.com/Sujon-Ahmed/KUFA.">KUFA</a>
+- 🌱 I’m currently learning *HTML5, CSS3, Boostrap, JavaScript, PHP, Laravel*
 - 👯 I’m looking to collaborate on *OpenSource Projects*
-- 🤔 I’m looking for help with *PHP*
+- 🤔 I’m looking for help with *LARAVEL*
 - 💬 Ask me about anything at [@sujonahmed](https://twitter.com/sujonahmedriman)
 - 📫 How to reach me: [Facebook](https://www.facebook.com/sujonahmedriman.75/)
 
@@ -41,6 +41,7 @@ Currently not employed, developing skills. Looking for an opportunity in an orga
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![PHP7](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![LARAVEL](https://img.shields.io/badge/LARAVEL-E34F26?style=for-the-badge&logo=laravel&logoColor=white)
 
 <br>
 
