@@ -23,7 +23,7 @@ Currently not employed, developing skills. Looking for an opportunity in an orga
 
 
 - 🔭 I’m currently working on <a href="https://github.com/Sujon-Ahmed/eshop">E-Shop</a>
-- 🌱 I’m currently learning *HTML5, CSS3, Boostrap, JavaScript, PHP, Laravel*
+- 🌱 I’m currently learning *Laravel*
 - 👯 I’m looking to collaborate on *OpenSource Projects*
 - 🤔 I’m looking for help with *LARAVEL*
 - 💬 Ask me about anything at [@sujonahmed](https://twitter.com/sujonahmedriman)
