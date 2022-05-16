@@ -7,7 +7,7 @@
 <br>
 
 I am **Sujon Ahmed**. A CSE student having some knowledges in *Web Design and Developement Technologies* and Interested in *Desktop/Mobile Software Development*.
-Currently not employed, developing skills. Looking for an opportunity in an organization, who treats their employees with respect.
+Currently, I am an Intern at Large IT Solution.
 
 - 😎 Name pronunciation: **Su-jon**
 - 😄 Pronouns: He/Him
