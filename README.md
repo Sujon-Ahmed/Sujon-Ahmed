@@ -1,9 +1,9 @@
-# About Me <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="10px"/>
+# About Me 👨‍💻
 
 ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) 
 ![](https://img.shields.io/badge/Relationship-Single-red)
-![](https://img.shields.io/badge/Designation-Web%20Developer-brightgreen)
-![](https://img.shields.io/badge/Job-Looking-_.svg)
+![](https://img.shields.io/badge/👨‍💻-Web%20Application%20Developer-brightgreen)
+<!-- ![](https://img.shields.io/badge/Job-Looking-_.svg) -->
 
 <br>
 
@@ -19,7 +19,7 @@ I am **Sujon Ahmed**, a *web application developer*. I have a passion for learni
 [![Twitter: sujonahmed](https://img.shields.io/twitter/follow/sujonahmedriman?style=social)](https://twitter.com/sujonahmedriman)
 [![GitHub: sujonahmed](https://img.shields.io/github/followers/sujon-ahmed?label=follow&style=social)](https://github.com/Sujon-Ahmed)
 
-## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
+## Hello World! 🙋‍♂️
 
 
 - 🔭 I’m currently working on <a href="https://github.com/Sujon-Ahmed/jesco">Jesco</a>
