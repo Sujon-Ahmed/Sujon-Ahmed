@@ -64,9 +64,13 @@ I am **Sujon Ahmed**, a *web application developer*. I have a passion for learni
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square&color=brightgreen)
 ![Last-commit](https://img.shields.io/github/last-commit/sujon-ahmed/sujon-ahmed?style=flat-square&color=blueviolet)
 
-![Sujon Ahmed GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujon-Ahmed&show_icons=true&theme=dracula)
-![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujon-Ahmed&theme=dracula)
 
+<div>
+  <a href="https://github.com/Sujon-Ahmed">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sujon-Ahmed&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujon-Ahmed&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
 <img src="https://activity-graph.herokuapp.com/graph?username=Sujon-Ahmed&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 
