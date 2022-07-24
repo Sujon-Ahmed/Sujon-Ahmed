@@ -23,9 +23,9 @@ I am **Sujon Ahmed**, a *web application developer*. I have a passion for learni
 
 
 - 🔭 I’m currently working on <a href="https://github.com/Sujon-Ahmed/jesco">Jesco</a>
-- 🌱 I’m currently learning *Laravel*
+- 🌱 I’m currently learning *ES6*
 - 👯 I’m looking to collaborate on *OpenSource Projects*
-- 🤔 I’m looking for help with *LARAVEL*
+- 🤔 I’m looking for help with *JavaScript*
 - 💬 Ask me about anything at [@sujonahmed](https://twitter.com/sujonahmedriman)
 - 📫 How to reach me: [Facebook](https://www.facebook.com/sujonahmedriman.75/)
 
