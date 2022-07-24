@@ -23,9 +23,9 @@ I am **Sujon Ahmed**, a *web application developer*. I have a passion for learni
 
 
 - 🔭 I’m currently working on <a href="https://github.com/Sujon-Ahmed/jesco">Jesco</a>
-- 🌱 I’m currently learning *ES6*
+- 🌱 I’m currently learning *React*
 - 👯 I’m looking to collaborate on *OpenSource Projects*
-- 🤔 I’m looking for help with *JavaScript*
+- 🤔 I’m looking for help with *React*
 - 💬 Ask me about anything at [@sujonahmed](https://twitter.com/sujonahmedriman)
 - 📫 How to reach me: [Facebook](https://www.facebook.com/sujonahmedriman.75/)
 
@@ -43,6 +43,7 @@ I am **Sujon Ahmed**, a *web application developer*. I have a passion for learni
 ![PHP7](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![LARAVEL](https://img.shields.io/badge/LARAVEL-F05340?style=for-the-badge&logo=laravel&logoColor=white)
+![REACT](https://img.shields.io/badge/REACT-222222?style=for-the-badge&logo=react&logoColor=#00D8FF)
 
 <br>
 
