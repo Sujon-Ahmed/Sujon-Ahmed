@@ -45,7 +45,7 @@ I am **Sujon Ahmed**, a *web application developer*. I have a passion for learni
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![LARAVEL](https://img.shields.io/badge/LARAVEL-F05340?style=for-the-badge&logo=laravel&logoColor=white)
 ![REACT](https://img.shields.io/badge/REACT-222222?style=for-the-badge&logo=react&logoColor=#00D8FF)
-![Vue.js](https://img.shields.io/badge/Vue.js-4fc08d?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4fc08d?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
 <br>
 
