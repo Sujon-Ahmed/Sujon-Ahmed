@@ -23,9 +23,9 @@ I am **Sujon Ahmed**, a *web application developer*. I have a passion for learni
 
 
 - 🔭 I’m currently working on <a href="https://app.egpeek.com/">EGPeek</a>
-- 🌱 I’m currently learning *React*
+- 🌱 I’m currently learning *Vue*
 - 👯 I’m looking to collaborate on *OpenSource Projects*
-- 🤔 I’m looking for help with *React*
+- 🤔 I’m looking for help with *Vue*
 - 💬 Ask me about anything at [@sujonahmed](https://twitter.com/sujonahmedriman)
 - 📫 How to reach me: [Facebook](https://www.facebook.com/sujonahmedriman.75/)
 
