@@ -2,7 +2,7 @@
 
 ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) 
 ![](https://img.shields.io/badge/Relationship-Single-red)
-![](https://img.shields.io/badge/👨‍💻-Web%20Application%20Developer-brightgreen)
+![](https://img.shields.io/badge/👨‍💻-Web%20Application%20Developer-dodgerblue)
 <!-- ![](https://img.shields.io/badge/Job-Looking-_.svg) -->
 
 <br>
@@ -22,10 +22,10 @@ I am **Sujon Ahmed**, a *web application developer*. I have a passion for learni
 ## Hello World! 🙋‍♂️
 
 
-- 🔭 I’m currently working on <a href="http://quizzlab.pixybazar.com/">Quiz App</a>
-- 🌱 I’m currently learning *Vuejs*
+- 🔭 I’m currently working on <a href="https://sujon-ahmed.github.io/portfolio/" target="_blank">Personal Project</a>
+- 🌱 I’m currently learning *React.js*
 - 👯 I’m looking to collaborate on *OpenSource Projects*
-- 🤔 I’m looking for help with *Vue..js*
+- 🤔 I’m looking for help with *React.js*
 - 💬 Ask me about anything at [@sujonahmed](https://twitter.com/sujonahmedriman)
 - 📫 How to reach me: [Facebook](https://www.facebook.com/sujonahmedriman.75/)
 
