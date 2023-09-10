@@ -72,7 +72,7 @@ I am **Sujon Ahmed**, a *web application developer*. I have a passion for learni
 <div>
   <a href="https://github.com/Sujon-Ahmed">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sujon-Ahmed&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujon-Ahmed&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujon-Ahmed&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
 
