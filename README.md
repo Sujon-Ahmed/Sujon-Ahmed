@@ -15,7 +15,7 @@ I am **Sujon Ahmed**, a *web application developer*. I have a passion for learni
 
 <br>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-sujon-ahmed?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sujon-ahmed-469b6320a/)](https://www.linkedin.com/in/sujon-ahmed-469b6320a/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/sujon-ahmed?style=flat-square&logo=Linkedin&color=white&logoColor=black&link=https://www.linkedin.com/in/sujon-ahmed-469b6320a/)](https://www.linkedin.com/in/sujon-ahmed-469b6320a/)
 [![Twitter: sujonahmed](https://img.shields.io/twitter/follow/sujonahmedriman?style=social)](https://twitter.com/sujonahmedriman)
 [![GitHub: sujonahmed](https://img.shields.io/github/followers/sujon-ahmed?label=follow&style=social)](https://github.com/Sujon-Ahmed)
 
