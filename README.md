@@ -40,6 +40,7 @@ I am **Sujon Ahmed**, a *web application developer*. I have a passion for learni
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-f2f2f2?style=for-the-badge&logo=tailwindcss&logoColor=#38bdf8)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-f2f2f2?style=for-the-badge&logo=typescript&logoColor=#38bdf8)
 ![PHP7](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![LARAVEL](https://img.shields.io/badge/LARAVEL-F05340?style=for-the-badge&logo=laravel&logoColor=white)
