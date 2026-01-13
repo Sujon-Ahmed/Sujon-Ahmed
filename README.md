@@ -1,7 +1,6 @@
 # About Me 👨‍💻
 
 ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) 
-![](https://img.shields.io/badge/Relationship-Single-red)
 ![](https://img.shields.io/badge/👨‍💻-Web%20Application%20Developer-dodgerblue)
 <!-- ![](https://img.shields.io/badge/Job-Looking-_.svg) -->
 
@@ -15,9 +14,10 @@ I am **Sujon Ahmed**, a *web application developer*. I have a passion for learni
 
 <br>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/sujon-ahmed?style=flat-square&logo=Linkedin&color=white&logoColor=black&link=https://www.linkedin.com/in/sujon-ahmed-469b6320a/)](https://www.linkedin.com/in/sujon-ahmed-469b6320a/)
-[![Twitter: sujonahmed](https://img.shields.io/twitter/follow/sujonahmedriman?style=social)](https://twitter.com/sujonahmedriman)
-[![GitHub: sujonahmed](https://img.shields.io/github/followers/sujon-ahmed?label=follow&style=social)](https://github.com/Sujon-Ahmed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujonahmedriman/)
+[![Twitter](https://img.shields.io/twitter/follow/sujonahmedriman?style=social)](https://twitter.com/sujonahmedriman)
+[![GitHub](https://img.shields.io/github/followers/sujon-ahmed?label=Follow&style=social)](https://github.com/Sujon-Ahmed)
+
 
 ## Hello World! 🙋‍♂️
 
@@ -26,7 +26,7 @@ I am **Sujon Ahmed**, a *web application developer*. I have a passion for learni
 - 🌱 I’m currently learning *React.js*
 - 👯 I’m looking to collaborate on *OpenSource Projects*
 - 🤔 I’m looking for help with *React.js*
-- 💬 Ask me about anything at [@sujonahmed](https://twitter.com/sujonahmedriman)
+- 💬 Ask me about anything at [@sujonahmed](https://www.linkedin.com/in/sujonahmedriman)
 
 
 ## Skills
@@ -70,11 +70,5 @@ I am **Sujon Ahmed**, a *web application developer*. I have a passion for learni
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square&color=brightgreen)
 ![Last-commit](https://img.shields.io/github/last-commit/sujon-ahmed/sujon-ahmed?style=flat-square&color=blueviolet)
 
-
-<div>
-  <a href="https://github.com/Sujon-Ahmed">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sujon-Ahmed&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujon-Ahmed&layout=compact&langs_count=8&theme=dracula"/>
-</div>
-
-
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Sujon-Ahmed&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Sujon-Ahmed&theme=radical)
