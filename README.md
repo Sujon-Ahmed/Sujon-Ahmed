@@ -22,8 +22,8 @@ I am **Sujon Ahmed**, a *web application developer*. I have a passion for learni
 ## Hello World! 🙋‍♂️
 
 
-- 🔭 I’m currently working on *API Development in Laravel*
-- 🌱 I’m currently learning *React.js*
+- 🔭 I’m currently working on *Next.js*
+- 🌱 I’m currently learning *Next.js*
 - 👯 I’m looking to collaborate on *OpenSource Projects*
 - 🤔 I’m looking for help with *React.js*
 - 💬 Ask me about anything at [@sujonahmed](https://www.linkedin.com/in/sujonahmedriman)
