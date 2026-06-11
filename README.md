@@ -1,13 +1,21 @@
-# About Me 👨‍💻
+# Hi, I'm Sujon Ahmed 👋
+
 
 <!-- ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) -->
-![](https://img.shields.io/badge/👨‍💻-Web%20Application%20Developer-dodgerblue)
+<!--![](https://img.shields.io/badge/👨‍💻-Software%20Developer-dodgerblue)-->
 <!-- ![](https://img.shields.io/badge/Job-Looking-_.svg) -->
 
-<br>
+**💻 Software Developer passionate about building scalable and impactful software solutions.**
 
-I am **Sujon Ahmed**, a *web application developer*. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I am flexible, reliable, and possess excellent time-keeping skills. I am an enthusiastic, self-motivated, reliable, responsible, and hard-working person. I am a mature team worker and adaptable to all challenging situations. I am able to work well both in a team environment as well as using my own initiative.
+I enjoy solving real-world problems through technology and continuously expanding my knowledge in software development. I am committed to writing clean, maintainable code and delivering high-quality solutions that create value for users and businesses.
+## About Me 👨‍💻
 
+- 🚀 Software Developer with experience in web application development
+- 🌱 Passionate about continuous learning and exploring new technologies
+- 🎯 Goal-oriented and focused on delivering meaningful results
+- 🤝 Strong team player with excellent collaboration and communication skills
+- 💡 Enjoy solving complex problems and turning ideas into practical solutions
+- 📚 Love sharing knowledge and contributing to the developer community
 - 😎 Name pronunciation: **Su-jon**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Nothing funny happening in life.. 😐
@@ -62,7 +70,7 @@ I am **Sujon Ahmed**, a *web application developer*. I have a passion for learni
 <br>
 <br>
 
-# Github Statistics
+## Github Statistics
 
 ![Visitor](https://komarev.com/ghpvc/?username=sujon-ahmedz&color=blueviolet&style=flat-square) 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/sujon-ahmed)
