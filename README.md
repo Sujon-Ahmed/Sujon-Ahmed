@@ -16,9 +16,6 @@ I enjoy solving real-world problems through technology and continuously expandin
 - 🤝 Strong team player with excellent collaboration and communication skills
 - 💡 Enjoy solving complex problems and turning ideas into practical solutions
 - 📚 Love sharing knowledge and contributing to the developer community
-- 😎 Name pronunciation: **Su-jon**
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Nothing funny happening in life.. 😐
 
 <br>
 
