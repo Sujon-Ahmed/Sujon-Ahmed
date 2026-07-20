@@ -75,9 +75,7 @@ I enjoy solving real-world problems through technology and continuously expandin
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square&color=brightgreen)
 ![Last-commit](https://img.shields.io/github/last-commit/sujon-ahmed/sujon-ahmed?style=flat-square&color=blueviolet)
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Sujon-Ahmed&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Sujon-Ahmed&theme=radical" width="48%" />
-</p>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Sujon-Ahmed&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sujon-Ahmed&layout=compact&theme=radical)
 
 
